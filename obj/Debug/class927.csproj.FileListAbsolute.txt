@@ -1,0 +1,7 @@
+C:\Users\HACKERU\source\repos\class927\bin\Debug\class927.exe.config
+C:\Users\HACKERU\source\repos\class927\bin\Debug\class927.exe
+C:\Users\HACKERU\source\repos\class927\bin\Debug\class927.pdb
+C:\Users\HACKERU\source\repos\class927\obj\Debug\class927.csprojAssemblyReference.cache
+C:\Users\HACKERU\source\repos\class927\obj\Debug\class927.csproj.CoreCompileInputs.cache
+C:\Users\HACKERU\source\repos\class927\obj\Debug\class927.exe
+C:\Users\HACKERU\source\repos\class927\obj\Debug\class927.pdb
